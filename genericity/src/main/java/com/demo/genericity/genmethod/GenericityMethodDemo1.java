@@ -1,7 +1,5 @@
 package com.demo.genericity.genmethod;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
-
 import java.util.ArrayList;
 import java.util.List;
 

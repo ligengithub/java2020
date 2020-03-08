@@ -56,14 +56,18 @@ public class ReflectDemo1 {
             System.out.println(declaredFields[i]);
         }
 
-        // 方法4  获取构造器
+        // 方法4  获取空参构造器
         Constructor declaredConstructor = class1.getDeclaredConstructor();
         System.out.println(declaredConstructor);
 
-        // 多个参数 注意顺序
+        // 多个参数 获取带参数的构造器
         Constructor anInt = class1.getConstructor(String.class, Integer.class);
         System.out.println(anInt);
 
+        // 获取到构造器之后 可以使用new instance(...参数) 方式实例化对象
+
+        // 获取方法
+        Method methodName = class1.getDeclaredMethod("methodName", String.class);
     }
 
 
