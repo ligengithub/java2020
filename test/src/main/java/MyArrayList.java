@@ -26,11 +26,11 @@ public class MyArrayList<T> {
         this.capacity = capacity;
     }
 
-    public void add(int value) {
-        add(size, value);
+    public void add(T t) {
+        add(size, t);
     }
 
-    public void add(int index, int data) {
+    public void add(int index, T t) {
         //如果实际大小等于数组容量，就进行两倍的扩容
         if (members.length == size) {
             //
@@ -43,7 +43,7 @@ public class MyArrayList<T> {
             //数组元素从指定index位置右移一位
             members[i] = members[i - 1];
         }
-        members[index] = data;
+        members[index] = t;
         //数组大小+1
         size++;
     }
