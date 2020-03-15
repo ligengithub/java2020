@@ -10,5 +10,4 @@ package com.demo.genericity.geninterface;
 public interface GenericityInterfaceDemo<T> {
 
     T method(T t);
-
 }
