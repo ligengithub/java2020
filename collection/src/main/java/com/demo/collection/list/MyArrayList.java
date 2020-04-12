@@ -1,4 +1,4 @@
-package com.demo.collection;
+package com.demo.collection.list;
 
 import java.util.Arrays;
 
@@ -11,12 +11,10 @@ import java.util.Arrays;
  */
 public class MyArrayList<T> {
 
-
     private static final int DEFAULT_CAPACITY = 3;
     private int capacity;
     private int size;
     private Object[] members;
-
 
     public MyArrayList() {
         this.size = 0;
@@ -55,7 +53,6 @@ public class MyArrayList<T> {
         return members[index];
     }
 
-
     /**
      * @ desc : 删除元素，注意要给没有引用的值赋null 好被垃圾回收
      * @ params
@@ -63,7 +60,6 @@ public class MyArrayList<T> {
      * @ date 2020/3/12
      * @ author ligen
      */
-
     public Object remove(int index) {
         Object ret = members[index];
         for (int i = index + 1; i < size; i++) {
@@ -79,7 +75,6 @@ public class MyArrayList<T> {
         }
         size = 0;
     }
-
 
     @Override
     public String toString() {

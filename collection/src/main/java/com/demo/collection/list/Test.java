@@ -1,4 +1,6 @@
-package com.demo.collection;
+package com.demo.collection.list;
+
+import java.util.ArrayList;
 
 /**
  * @author ligen
@@ -31,9 +33,16 @@ public class Test {
         mylist.clear();
 
         System.out.println(mylist.toString());  // []
-//        System.out.println(my);
 
 
+        ArrayList<String> strings = new ArrayList<>(2);
+        strings.add("123");
+        strings.add("123");
+        strings.add("123");
+        strings.add("123");
+        strings.add("123");
+
+        System.out.println(strings);
 
 
 //        System.out.println("hahhahah");

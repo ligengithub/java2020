@@ -1,4 +1,4 @@
-package com.demo.collection;
+package com.demo.collection.list;
 
 /**
  * @author ligen
