@@ -93,8 +93,4 @@ public class SelectorDemo {
         }
     }
 
-    public void test(Map){
-
-    }
-
 }

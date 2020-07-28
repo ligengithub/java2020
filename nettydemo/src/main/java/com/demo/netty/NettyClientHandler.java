@@ -18,10 +18,4 @@ public class NettyClientHandler implements SimpleChannelInboundHandler<> {
 
 
     {
-        "bindDevices": [
-        150,
-                151,
-                152
-	],
-        "id
 }
