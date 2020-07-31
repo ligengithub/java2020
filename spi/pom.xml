@@ -14,7 +14,7 @@
     <modules>
         <module>spi-demo-app</module>
         <module>spi-provider</module>
-        <module>spi-demo2-filter</module>
+        <module>spi-demo2-com.demo.spi.filter</module>
     </modules>
 
 

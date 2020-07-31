@@ -34,7 +34,7 @@ public class ReflectDemo2 {
         Properties properties = new Properties();
 
         // 获取配置文件方式1
-//          FileInputStream fileInputStream = new FileInputStream("C:\\Users\\xx\\Desktop\\demo\\java2020\\reflect\\target\\classes\\test.properties");
+//          FileInputStream fileInputStream = new FileInputStream("C:\\Users\\xx\\Desktop\\spi\\java2020\\reflect\\target\\classes\\test.properties");
 
         //  方式2
 //        FileInputStream fileInputStream = new FileInputStream(new File("src/main/resources/test.properties"));
@@ -52,7 +52,7 @@ public class ReflectDemo2 {
 
 
         Class<?> aClass = Class.forName(loadclass);
-//        Class<?> aClass = Class.forName("com.demo.reflect.entry.People2");
+//        Class<?> aClass = Class.forName("com.spi.reflect.entry.People2");
         Method method = aClass.getDeclaredMethod("method");
 
         // 注意获取带参数的方法，这里要传入参数的类型，，多个参数注意顺序

@@ -1,4 +1,4 @@
-//package com.demo.annotation.testFrame;
+//package com.spi.annotation.testFrame;
 //
 //import java.io.File;
 //import java.io.FileWriter;
@@ -20,7 +20,7 @@
 //    public static void main(String[] args) throws IOException {
 //
 //
-////        FileOutputStream fileOutputStream = new FileOutputStream(new File("C:\\Users\\xx\\Desktop\\demo\\java2020\\annotation"));
+////        FileOutputStream fileOutputStream = new FileOutputStream(new File("C:\\Users\\xx\\Desktop\\spi\\java2020\\annotation"));
 //        FileWriter fileWriter = new FileWriter(new File("./annotation/err.log"));
 //
 //

@@ -1,7 +1,7 @@
 /**
  * @author ligen
  * @title: Test
- * @projectName jvm-demo
+ * @projectName jvm-spi
  * @description:
  * @date 2020/4/315:35
  */

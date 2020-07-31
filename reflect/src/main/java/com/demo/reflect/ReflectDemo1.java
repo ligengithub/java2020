@@ -35,7 +35,7 @@ public class ReflectDemo1 {
         Class class1 = people.getClass();
 
 //        // 方式2  全类名
-//        Class<?> class2 = Class.forName("com.demo.reflect.entry.People");
+//        Class<?> class2 = Class.forName("com.spi.reflect.entry.People");
 //
 //
 //        // 方式3  类

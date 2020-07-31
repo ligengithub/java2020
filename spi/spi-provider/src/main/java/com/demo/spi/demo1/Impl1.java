@@ -1,4 +1,4 @@
-package com.demo.spi;
+package com.demo.spi.demo1;
 
 /**
  * @author ligen
@@ -7,7 +7,7 @@ package com.demo.spi;
  * @description:
  * @date 2020/7/2910:50
  */
-public class Impl2 implements InterfaceDemo {
+public class Impl1 implements InterfaceDemo {
     public void method1() {
         System.out.println("impl1");
     }

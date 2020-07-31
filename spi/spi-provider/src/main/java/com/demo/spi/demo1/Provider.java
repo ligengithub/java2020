@@ -1,4 +1,4 @@
-package com.demo.spi;
+package com.demo.spi.demo1;
 
 import java.util.Iterator;
 import java.util.ServiceLoader;
