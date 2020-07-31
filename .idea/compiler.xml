@@ -9,12 +9,14 @@
         <module name="spi-demo-app" />
         <module name="spi-provider" />
         <module name="jdbc" />
+        <module name="spi-demo2-filter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jdbc" target="1.5" />
       <module name="spi" target="1.5" />
       <module name="spi-demo-app" target="1.8" />
+      <module name="spi-demo2-filter" target="1.5" />
       <module name="spi-provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
