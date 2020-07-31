@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/design-mode/design-mode.iml" filepath="$PROJECT_DIR$/design-mode/design-mode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/genericity/genericity.iml" filepath="$PROJECT_DIR$/genericity/genericity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reflect/reflect.iml" filepath="$PROJECT_DIR$/reflect/reflect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi/spi.iml" filepath="$PROJECT_DIR$/spi/spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi/spi-demo-app/spi-demo-app.iml" filepath="$PROJECT_DIR$/spi/spi-demo-app/spi-demo-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi/spi-provider/spi-provider.iml" filepath="$PROJECT_DIR$/spi/spi-provider/spi-provider.iml" />
     </modules>
   </component>
 </project>

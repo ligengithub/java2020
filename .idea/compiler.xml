@@ -6,18 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="collection" />
-        <module name="reflect" />
-        <module name="genericity" />
-        <module name="test" />
+        <module name="spi-demo-app" />
+        <module name="spi-provider" />
+        <module name="jdbc" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="annotation" target="11" />
-      <module name="collection" target="11" />
-      <module name="genericity" target="11" />
-      <module name="reflect" target="11" />
-      <module name="test" target="11" />
+    <bytecodeTargetLevel>
+      <module name="jdbc" target="1.5" />
+      <module name="spi" target="1.5" />
+      <module name="spi-demo-app" target="1.8" />
+      <module name="spi-provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
