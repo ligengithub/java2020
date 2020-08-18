@@ -18,14 +18,14 @@ public abstract class AbstuctFilter implements Filter {
     }
 
 
-    @Override
-    public void doFilter(Content context) {
-        // 是否还有下一个过滤器
-        if ( == null) {
-            System.out.println("过滤结束");
-        } else {
-            nextFilter.doFilter(context);
-        }
-
-    }
+//    @Override
+//    public void doFilter(Content context) {
+//        // 是否还有下一个过滤器
+//        if ( == null) {
+//            System.out.println("过滤结束");
+//        } else {
+//            nextFilter.doFilter(context);
+//        }
+//
+//    }
 }
