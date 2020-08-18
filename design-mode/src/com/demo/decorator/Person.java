@@ -7,8 +7,8 @@ package com.demo.decorator;
  * @description: 装饰器模式 公共模块1
  * @date 2020/8/1810:17
  */
-public interface Component {
+public interface Person {
 
-    public void method1();
-    public void method2();
+    void getUp();
+
 }

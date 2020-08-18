@@ -12,15 +12,10 @@ public class Main {
     public static void main(String[] args) {
 
 
-        ComponentImpl component = new ComponentImpl();
+        Zhangsan zhangsan = new Zhangsan();
 
-        DecoratorA decoratorA = new DecoratorA(component);
-        DecoratorB decoratorB = new DecoratorB(decoratorA);
-
-        decoratorB.method1();
-        System.out.println();
-        System.out.println();
-        decoratorB.method2();
-
+        WashDecorator wash = new WashDecorator(zhangsan);
+        DressDecorator dress = new DressDecorator(wash);
+        dress.getUp();
     }
 }
