@@ -16,7 +16,7 @@ public class JDBCDemo {
         Connection connection = null;
         ResultSet resultSet = null;
         try {
-            // 触发了Mysql的 静态代码块。将Mysql 注册到DraverManage 中
+            // 触发了com.mysql.cj.jdbc.Driver的 静态代码块。将Mysql 注册到DraverManage 中
             Class.forName("com.mysql.cj.jdbc.Driver");
             connection = DriverManager.getConnection("jdbc:mysql://118.25.153.63:3306/druidtest?useUnicode=true&characterEncoding=utf8", "root", "root");
             //sql

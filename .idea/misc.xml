@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/spi/spi-provider/pom.xml" />
         <option value="$PROJECT_DIR$/spi-demo2-filter/pom.xml" />
         <option value="$PROJECT_DIR$/spi/spi-demo2-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/eazypoi/pom.xml" />
       </list>
     </option>
   </component>

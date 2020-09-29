@@ -11,9 +11,11 @@
         <module name="spi-provider" />
         <module name="jdbc" />
         <module name="spi-demo2-filter" />
+        <module name="eazypoi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eazypoi" target="1.5" />
       <module name="jdbc" target="1.5" />
       <module name="spi" target="1.5" />
       <module name="spi-demo-app" target="1.8" />
