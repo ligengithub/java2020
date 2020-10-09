@@ -9,7 +9,7 @@ import java.util.Map;
  * @description:
  * @date 2020/9/299:58
  */
-public class Module {
+public class OcModule {
 
     private Long create_time;
 
@@ -94,4 +94,6 @@ public class Module {
     public void setServices(List<InData> services) {
         this.services = services;
     }
+
+
 }

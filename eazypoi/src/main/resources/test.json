@@ -1,0 +1,7 @@
+{
+  "data":
+  "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601913920787,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAhfe0Q+ODY5NzY4MDQxOTIyMjk3///80/////QB////bQS2p1OJAAAAXQALAAAAAAA8ADwAAADT+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+
+
+  "create_time": "1601913920"
+}

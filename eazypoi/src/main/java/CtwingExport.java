@@ -8,6 +8,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.poi.ss.usermodel.Workbook;
 
 import java.io.*;
+import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -21,7 +22,7 @@ import java.util.TimeZone;
  * @description:
  * @date 2020/9/299:57
  */
-public class TestPOI {
+public class CtwingExport {
 
 
     public static void main(String[] args) throws IOException {
@@ -44,32 +45,32 @@ public class TestPOI {
 //            String data2 = "{\"notifyType\":\"deviceDatasChanged\",\"requestId\":null,\"deviceId\":\"b23bfeaa-d46d-4151-85fc-3fc886b8f51d\",\"gatewayId\":\"b23bfeaa-d46d-4151-85fc-3fc886b8f51d\"}";
 
 
-            Module module = JSON.parseObject(data, Module.class);
+            CtwingModule module = JSON.parseObject(data, CtwingModule.class);
+            final Date date = new Date((long) Long.valueOf(create_time) * 1000);
 
-            for (int i1 = 0; i1 < module.getServices().size(); i1++) {
-                Module.InData inData = module.getServices().get(i1);
-                String serviceType = inData.getServiceType();
 
-                if (StringUtils.equals(serviceType, "Raw")) {
-                    final Object raw = JSON.parseObject(inData.getData()).get("raw");
-                    final Date date = new Date((long) Long.valueOf(create_time) * 1000);
-                    final SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-                    format.setTimeZone(TimeZone.getTimeZone("GMT+8"));
-                    beforeFilter.add(new ExportModal() {{
-                        setData(raw.toString());
-                        setDate(format.format(date));
-                    }});
-//                    System.out.println(raw.toString());
-                }
-//                1601341038
-            }
+//        byte[] bytes = EncodeUtils.decodeHex(module.getPayload().getAPPdata());
+            byte[] bytes = EncodeUtils.decodeBase64(module.getPayload().getAPPdata());
+
+            final String hexString = EncodeUtils.encodeHex(bytes);
+
+            final SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+            beforeFilter.add(new ExportModal() {{
+                setData(hexString);
+                setDate(format.format(date));
+            }});
 
         }
 
+        System.out.println(beforeFilter.size());
+
         // json 已经全部转化成Object
         for (int i = 0; i < beforeFilter.size(); i++) {
-
             String data = beforeFilter.get(i).getData();
+
+            if (data.length() < 104) {
+                continue;
+            }
 
             String cmdFlag = data.substring(92, 94);
             String eventFlag = data.substring(94, 96);
@@ -81,24 +82,49 @@ public class TestPOI {
             if (StringUtils.equals(cmdFlag, "05") || StringUtils.equals(eventFlag, "05")) {
                 ExportModal exportModal = new ExportModal(beforeFilter.get(i).getData(), beforeFilter.get(i).getDate());
 
-                if ("01".equals(data.substring(102, 104)) || "02".equals(data.substring(102, 104))) {
+                if (!"00".equals(data.substring(102, 104))) {
+
+                    // 温度
                     String lowTmp = data.substring(116, 118);
                     String hTmp = data.substring(118, 120);
                     String tmpHex = hTmp + lowTmp;
                     BigInteger i1 = new BigInteger(tmpHex, 16);
                     String temp = String.valueOf((double) i1.longValue() / 100L);
 
+                    // 湿度
                     String lowHum = data.substring(120, 122);
                     String hHum = data.substring(122, 124);
                     String tmpHum = hHum + lowHum;
                     BigInteger hum = new BigInteger(tmpHum, 16);
                     String sHum = hum.toString();
 
+                    // rsrp
+                    String rsrp = "ffffffff" + data.substring(58, 62);
+                    Integer Irsrp = new BigInteger(rsrp, 16).intValue();
+                    String sRsrp = Irsrp.toString();
+
+                    // snr
+                    String snr =  data.substring(66, 70);
+                    Integer iSnr = new BigInteger(snr, 16).intValue();
+                    String sSnr = iSnr.toString();
+
+                    // ecl
+                    String ecl = data.substring(70, 72);
+                    Integer iecl = new BigInteger(ecl, 16).intValue();
+                    String secl = iecl.toString();
+
+                    // rsrq
+                    String rsrq = "ffffffff" + data.substring(76, 80);
+                    Integer irsrq = new BigInteger(rsrq, 16).intValue();
+                    String srsrq = irsrq.toString();
 
                     exportModal.setTemp(temp);
                     exportModal.setHumi(sHum);
+                    exportModal.setEcl(secl);
+                    exportModal.setRsrp(sRsrp);
+                    exportModal.setRsrq(srsrq);
+                    exportModal.setSnr(sSnr);
                 }
-
 
 
                 if (StringUtils.equals(eventFlag, "05")) {
@@ -122,7 +148,7 @@ public class TestPOI {
 
         Workbook sheets = ExcelExportUtil.exportBigExcel(exportParams, ExportModal.class, afterFilter);
 
-        FileOutputStream fos = new FileOutputStream(".\\eazypoi\\温湿度数据上报导出.xlsx");
+        FileOutputStream fos = new FileOutputStream(".\\eazypoi\\ctwing温湿度数据上报导出.xlsx");
 
         sheets.write(fos);
 
@@ -133,7 +159,7 @@ public class TestPOI {
     public static String getJson() throws UnsupportedEncodingException {
         String jsonStr = "";
         try {
-            String path = TestPOI.class.getClassLoader().getResource("oc_report.json").getPath();
+            String path = CtwingExport.class.getClassLoader().getResource("outer_report.json").getPath();
             File file = new File(path);
             FileReader fileReader = new FileReader(file);
             Reader reader = new InputStreamReader(new FileInputStream(file), "Utf-8");
@@ -155,4 +181,14 @@ public class TestPOI {
             return null;
         }
     }
+
+
+    private static final long parseUnsignedLong(String str) {
+        BigDecimal data = new BigDecimal(str);
+        long l = data.subtract(new BigDecimal(Long.MAX_VALUE)).subtract(BigDecimal.valueOf(1)).longValue();
+        return l | Long.MIN_VALUE;
+    }
+
 }
+
+

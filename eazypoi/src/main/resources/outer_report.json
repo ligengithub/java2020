@@ -1,0 +1,1400 @@
+{
+  "RECORDS": [
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601913920787,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAhfe0Q+ODY5NzY4MDQxOTIyMjk3///80/////QB////bQS2p1OJAAAAXQALAAAAAAA8ADwAAADT+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601913920"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601913921017,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsAAlfe0Q/ODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1P//wUAXQA3DF97REAAOgYJNgD/CDYABAk2AAEJNgAECTYABAk2AAQJNgACCTYABwk2AAQJNgAECTYACQk2AB37\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601913921"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601913931084,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601913931"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601917520140,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAApfe1JNODY5NzY4MDQxOTIyMjk3///9LAAAAOMA////lAS2p1KIAAAAXQALAAAAAAA8ADwAAABi+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601917520"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601917520577,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsAAtfe1JOODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1L//wUAXQA3DF97Uk8AOg0JNgANCTYACQk2AAoJNgAJCTYACgk2AAoJNgAJCTYADAk2AA0JNgAKCTYACgk2AKn7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601917520"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601917520641,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601917520"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601917530492,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601917530"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601917530816,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601917530"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601921119501,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAxfe2BdODY5NzY4MDQxOTIyMjk3///9KAAAANUA////lAS2p1KIAAAAXQALAAAAAAA8ADwAAABw+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601921119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601921119737,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsAA1fe2BdODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1L//wUAXQA3DF97YF4AOiAJNgAXCTYAEgk2ABAJNgANCTYADQk2AAoJNgAKCTYADQk2AAoJNgAMCTYACQk2ABj7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601921119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601921129804,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601921129"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601924718862,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAA5fe25sODY5NzY4MDQxOTIyMjk3///9KgAAAN0A////lAS2p1KIAAAAXQALAAAAAAA8ADwAAACZ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601924718"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601924719298,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsAA9fe25tODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1L//wUAXQA3DF97bm4AOhAJNgANCTYADAk2AA0JNgAMCTYADAk2AAoJNgAKCTYADQk2AAoJNgAMCTYACgk2ADL7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601924719"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601924719362,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601924719"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601924729165,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601924729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601924729532,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601924729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601928318407,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABBfe3x8ODY5NzY4MDQxOTIyMjk3///9KAAAANEA////lAS2p1KIAAAAXQALAAAAAAA8ADwAAACr+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601928318"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601928318811,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsABFfe3x8ODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1L//wUAXQA3DF97fH0AOh0JNgAVCTYAEAk2ABAJNgANCTYADQk2AAwJNgANCTYADAk2AAwJNgAJCTYACQk2AI77\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601928318"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601928328673,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601928328"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601931917581,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABJfe4qLODY5NzY4MDQxOTIyMjk3///9IAAAANUA////lAS2p1KIAAAAXQALAAAAAAA8ADwAAADG+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601931917"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601931918018,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsABNfe4qLODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1L//wUAXQA3DF97iowAOg0JNgAMCTYABgk2AAYJNgAHCTYABAk2AAQJNgAECTYAAgk2AAEJNgD/CDYA/gg2AFH7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601931918"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601931918082,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601931918"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601931927885,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601931927"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601931928257,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601931928"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601935516941,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABRfe5iaODY5NzY4MDQxOTIyMjk3///9JwAAAN0A////lAS2p1KIAAAAXQALAAAAAAA8ADwAAAD0+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601935516"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601935517177,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsABVfe5ibODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1L//wUAXQA3DF97mJwAOhIJNQAJCTYABAk2AAEJNgD+CDYA/Ag2APcINgD2CDYA9gg2APQINgD2CDYA9Ag2ACv7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601935517"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601935527211,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601935527"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601939116919,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABZfe6aqODY5NzY4MDQxOTIyMjk3///9KAAAANkA////lAS2p1KIAAAAXQALAAAAAAA8ADwAAAAR+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601939116"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601939117299,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsABdfe6aqODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAS2p1L//wUAXQA3DF97pqsAOvkINQDwCDUA5Qg1AN0INQDYCDYAygg1ALwINQCzCDUAqAg1AJ0INQCXCDUAjwg1AKX7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601939117"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601939117360,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601939117"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601939127183,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601939127"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601939127554,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601939127"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601942720787,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABhfe7S5ODY5NzY4MDQxOTIyMjk3///8vf////cB////bgSyZlMLAAAAXQALAAAAAAA8ADwAAAD5+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601942720"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601942720957,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsABlfe7S6ODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAASyZlP//wUAXQA3DF97tLsAOqUINQCXCDUAjwg1AIcINQB5CDUAcQg1AGsINQBoCDUAVwg0AEgINAA5CDQALAg0AIb7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601942721"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601942731051,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601942731"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601946315328,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABpfe8LIODY5NzY4MDQxOTIyMjk3///9GgAAAG8A////kwm3qNMgAAAAXQALAAAAAAA8ADwAAAD2+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601946315"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601946315689,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsABtfe8LJODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAm3qNP//wUAXQA3DF97wsoAOi8INAAmCDQAGwg1ABIINQANCDUABQg1AAIINQAECDYALAg3ADEINgA3CDYAOQg2AOr7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601946315"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601946315835,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601946315"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601946325580,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601946325"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601946325925,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601946325"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947206190,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwDrABxfe8Y/ODY5NzY4MDQxOTIyMjk3///8mgAAABwA////gAS0lVIiAAECXQC2AQliOnyTF/wDClNEWCBHVUVTRVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiOnyTF/wDClNEWCBHVUVTRVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiOnyTF/zlClNEWCBHVUVTRVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947206"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947216588,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947216"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947223319,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBzAB1fe8ZSODY5NzY4MDQxOTIyMjk3///8Gf///7AC////PgSyeFOMAAECXQA+AQNiOnyTF/znClNEWCBHVUVTRVQAAEgO7LRXJegIWkpYVF9XTVMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947223"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947235353,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947235"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947368188,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwDrAB5fe8bmODY5NzY4MDQxOTIyMjk3///79v///68C////PQSyZlEJAAECXQC2AQlAMTzhKgcHC1hpYW9taV8yQTA2AEgO7LRXRwMIWkpYVF9XTVMAAAAAVHWV2+w95whaSlhUX1dNUwAAAABAMTzhKgfjC1hpYW9taV8yQTA2AEgO7LRXRwMIWkpYVF9XTVMAAAAAVHWV2+w95whaSlhUX1dNUwAAAABAMTzhKgfjC1hpYW9taV8yQTA2AEgO7LRXRwAIWkpYVF9XTVMAAAAAUGQriyUI5AtYaWFvbWlfMkYzMAAj+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947368"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947378436,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947378"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947492750,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwDrAB9fe8diODY5NzY4MDQxOTIyMjk3///89gAAABcA////fgSyalMXAAECXQC2AQlIDuy0VyUPCFpKWFRfV01TAAAAAFBkK4slCAQLWGlhb21pXzJGMzAAgI8dJbJoBAhaSlhUX1dNUwAAAABIDuy0VyUNCFpKWFRfV01TAAAAAFBkK4slCAILWGlhb21pXzJGMzAAgI8dJbJoBAhaSlhUX1dNUwAAAABIDuy0VyUQCFpKWFRfV01TAAAAAFBkK4slCAALWGlhb21pXzJGMzAAgI8dJbJoBAhaSlhUX1dNUwAAAAAp+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947492"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601947503474,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601947503"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601949916260,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAACBfe9DYODY5NzY4MDQxOTIyMjk3///8n////7wC////RASyalMXAAAAXQALAAAAAAA8ADwAAADK+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601949916"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601949916314,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsACFfe9DZODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAASyalP//wUAWwA3DF970NoAOloINgBoCDYA+Qg9AP4IMAC3ByoAOAYhABkFIQARBB8AbgMkAAIDJACjAicAQgInAHz7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601949916"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601949926603,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601949926"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601949931013,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601949931"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601953514131,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAACJfe97nODY5NzY4MDQxOTIyMjk3///8bgAAAA4A////fAVuSVISAQAAWwALAAAAAAA8ADwAAADY+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601953514"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601953514237,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsACNfe97oODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAVuSVL//wUAWwA3DF973ukAOg0CKQDVASoAqAErAEwCWQBgA1oARgRWACUEQQBlAy0AlAImAPwBKgCoASwAZAEsAEr7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601953514"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601953524393,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601953524"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601953525356,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601953525"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955018898,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBQACRfe+TEODY5NzY4MDQxOTIyMjk3///8hQAAAFwA////jgVuTFLBAAUFWwAbBV975MQAOjkBLAAHASsA5wAsANMALwC9AC8A4vs=\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955018"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955029223,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955315762,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAACVfe+XwODY5NzY4MDQxOTIyMjk3///8qgAAAEUA////iwVkalNlAAUFWwALAV975fAAOrEAMQA1+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955315"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955326443,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955326"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955617863,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAACZfe+ccODY5NzY4MDQxOTIyMjk3///8vgAAACQA////fgVnAlEdAQUFWwALAV975xwAOqYALAC6+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955617"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955628229,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955628"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955914709,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAACdfe+hIODY5NzY4MDQxOTIyMjk3///8owAAAE0A////jwVhuVGrAAUFWwALAV976EgAOqcASQCQ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955914"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601955925053,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601955925"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601957113697,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAChfe+z3ODY5NzY4MDQxOTIyMjk3///8zAAAAPEA////lAVuV1OIAAAAWwALAAAAAAA8ADwAAADZ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601957113"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601957113858,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBMAClfe+z3ODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAVuV1P//wUAWwAXBF977PgAOl4CWgCqA1kAFwRZAGUDQwD4+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601957113"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601957123955,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601957124"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601959514685,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBcACpfe/ZXODY5NzY4MDQxOTIyMjk3///8vAAAAO8A////lAVuV1OIAAUFWwAnCF979lcAOuACPAA0AioAdwEmADkBJwAIASgA5AAnANIAJwC5ACcA3Ps=\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601959514"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601959514805,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601959514"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601959524958,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601959525"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601959816167,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAACtfe/eDODY5NzY4MDQxOTIyMjk3///9OgAAAMUA////kAViQFLJAQUFWwALAV9794MAOsMAKQDd+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601959816"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601959826461,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601959826"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960114531,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAACxfe/ivODY5NzY4MDQxOTIyMjk3///8PgAAAGgA////kgVgElPpAAUFWwALAV97+K8AOpwAKgCq+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960114"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960124904,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960124"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960413907,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAC1fe/nbODY5NzY4MDQxOTIyMjk3///8kwAAAFoA////kAVid1KXAAUFWwALAV97+dsAOpAALABU+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960413"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960424206,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960424"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960713406,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAC5fe/sHODY5NzY4MDQxOTIyMjk3///9DgAAAOgA////lAVieFInAQAAWwALAAAAAAA8ADwAAADs+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960713"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960713571,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAC9fe/sHODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAVieFL//wUFWQALAV97+wgAOnEALAAC+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960713"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960713691,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8ADBfe/sIODY5NzY4MDQxOTIyMjk3///83AAAAJQA////lAVieFInAQUAWAAHAF97+wgAOgX7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960713"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960723726,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960723"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960724412,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960724"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601960724448,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601960724"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961013888,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADFfe/wzODY5NzY4MDQxOTIyMjk3///89AAAAL8A////lAVieFInAQUFWAALAV97/DMAOl8AKwA1+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961013"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961024206,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961024"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961314053,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADJfe/1fODY5NzY4MDQxOTIyMjk3///9FwAAAOUA////lAVieFInAQUFWAALAV97/V8AOkYAKwDB+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961314"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961324366,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961324"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961613871,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADNfe/6LODY5NzY4MDQxOTIyMjk3///9EAAAAO0A////lAVieFInAQUFWAALAV97/osAOkAAKwAX+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961613"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961624179,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961624"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961914047,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADRfe/+3ODY5NzY4MDQxOTIyMjk3///8/gAAAMYA////lAVieFInAQUFWAALAV97/7cAOkYALAA/+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961914"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601961924367,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601961924"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601962214199,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADVffADjODY5NzY4MDQxOTIyMjk3///9HAAAAOgA////lAVieFInAQUFWAALAV98AOMAOkUALgDe+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601962214"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601962224451,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601962224"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601962514037,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADZffAIPODY5NzY4MDQxOTIyMjk3///8xgAAAHAA////kgVieVIuAAUFWAALAV98Ag8AOjoALQBl+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601962514"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601962524322,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601962524"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601964317861,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADdffAkWODY5NzY4MDQxOTIyMjk3///8TwAAAHYA////kgVg+1KdAAAAWAALAAAAAAA8ADwAAADS+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601964317"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601964317899,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBUADhffAkXODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAVg+1L//wUAWAAfBl98CRgAOokDWQCGBFkAQQVFAM4FPABABjgAvAY3ABn7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601964317"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601964328199,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601964328"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601964328876,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601964328"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601967917176,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADlffBcmODY5NzY4MDQxOTIyMjk3///9CwAAAMAA////lAVhr1HHAQAAWAALAAAAAAA8ADwAAADa+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601967917"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601967917300,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBsADpffBcmODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAAVhr1H//wUAWAA3DF98FycAOhwHNQDSBy8A9ggsAEkJKQBPCSYAIAkkAOUJLgCECiYAAQsqAFcLJwAJCycA6AooAAL7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601967917"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601967918184,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+qIAAwAfADtffBctODY5NzY4MDQxOTIyMjk3BQBD+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601967918"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601967918184,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADtffBctODY5NzY4MDQxOTIyMjk3///+RAAAAPUA////lAm3AtM2AAUAWAALAV98Fy0AOuoKKADy+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601967918"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601967927435,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601967927"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601967927568,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601967927"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601967928502,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601967928"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601968223509,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAADxffBhZODY5NzY4MDQxOTIyMjk3///8zP///5gC////JAm3AtM2AAUFWAALAV98GFkAOs8KKQDw+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601968223"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601968233797,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601968233"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601968520581,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAD1ffBmFODY5NzY4MDQxOTIyMjk3///9SwAAAKQA////kwm25NL0AAUFWAALAV98GYUAOrkKKgDQ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601968520"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601968530903,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601968530"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601968822567,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAD5ffBqxODY5NzY4MDQxOTIyMjk3///9+QAAARIA////lAm4XdI9AAUFWAALAV98GrEAOsMKKgAX+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601968822"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601968832862,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601968832"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601969119606,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAD9ffBvdODY5NzY4MDQxOTIyMjk3///9MQAAAE8A////jQm2V9NxAAUFWAALAV98G90AOsgKKgAR+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601969119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601969129931,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601969130"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601969419632,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEBffB0JODY5NzY4MDQxOTIyMjk3///9NAAAAKcA////lASztVOqAAUFWAALAV98HQkAOpwKKgCz+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601969419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601969429892,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601969430"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601969723672,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEFffB41ODY5NzY4MDQxOTIyMjk3///8WwAAAIoA////lASztVOqAAUFWAALAV98HjUAOlkKKwDV+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601969723"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601969733967,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601969734"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970019310,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEJffB9gODY5NzY4MDQxOTIyMjk3///8rgAAAPEA////lASztVGoAAUFWAALAV98H2AAOiMKLACv+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970029555,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970319472,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAENffCCMODY5NzY4MDQxOTIyMjk3///8ygAAAPgA////lASztVGoAAUFWAALAV98IIwAOgAKLQAL+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970319"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970329735,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970329"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970619662,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAERffCG4ODY5NzY4MDQxOTIyMjk3///8uQAAAQQA////lASztVGoAAUFWAALAV98IbgAOuIJLgBE+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970619"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970629967,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970630"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970919152,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEVffCLkODY5NzY4MDQxOTIyMjk3///8ugAAAO4A////lASztVGoAAUFWAALAV98IuQAOswJLgBz+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970919"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601970929397,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601970929"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971219313,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEZffCQQODY5NzY4MDQxOTIyMjk3///8ugAAAO8A////lASztVGoAAUFWAALAV98JBAAOrsJLwDB+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971229574,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971513088,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEdffCU2ODY5NzY4MDQxOTIyMjk3///81wAAAQ8A////lASztVGoAAAAWAALAAAAAAA8ADwAAABY+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971513"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971518122,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEhffCU8ODY5NzY4MDQxOTIyMjk3///8xQAAARcA////lASztVGoAAUFWAALAV98JTwAOq0JLwBD+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971518"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971518183,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8AElffCU8ODY5NzY4MDQxOTIyMjk3///8xQAAARoA////lASztVGoAAUAWAAHAF98JTwAOlj7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971518"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971523364,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971523"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971819001,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEpffCZoODY5NzY4MDQxOTIyMjk3///8yAAAAPwA////lASztVGoAAUFWAALAV98JmgAOqIJMAB8+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971819561,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971819625,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601971829252,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601971829"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601972119216,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAEtffCeUODY5NzY4MDQxOTIyMjk3///81gAAAQkA////lASztVGoAAUFWAALAV98J5QAOqAJMADx+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601972119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601972129487,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601972129"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601972419314,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAExffCjAODY5NzY4MDQxOTIyMjk3///8zAAAAP4A////lASztVGoAAUFWAALAV98KMAAOpIJMAAo+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601972419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601972429555,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601972429"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601972719491,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAE1ffCnsODY5NzY4MDQxOTIyMjk3///80AAAAPwA////lASztVGoAAUFWAALAV98KewAOocJMAB6+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601972719"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601972729734,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601972729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973019648,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAE5ffCsYODY5NzY4MDQxOTIyMjk3///8zQAAAPUA////lASztVGoAAUFWAALAV98KxgAOoMJMQDK+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973029957,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973030"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973319157,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAE9ffCxEODY5NzY4MDQxOTIyMjk3///81AAAAPkA////lASztVGoAAUFWAALAV98LEQAOnsJMQAo+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973319"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973329399,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973329"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973619342,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFBffC1wODY5NzY4MDQxOTIyMjk3///8ygAAAPcA////lASztVGoAAUFWAALAV98LXAAOnkJMQB1+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973619"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973629648,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973629"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973919473,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFFffC6cODY5NzY4MDQxOTIyMjk3///80AAAAQoA////lASztVGoAAUFWAALAV98LpwAOnQJMQDl+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973919"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601973929713,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601973929"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601974219059,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFJffC/IODY5NzY4MDQxOTIyMjk3///8zwAAAQcA////lASztVGoAAUFWAALAV98L8gAOnAJMQA4+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601974219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601974229376,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601974229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601974519152,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFNffDD0ODY5NzY4MDQxOTIyMjk3///8yAAAAQYA////lASztVGoAAUFWAALAV98MPQAOm4JMQCJ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601974519"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601974529411,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601974529"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601974819313,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFRffDIgODY5NzY4MDQxOTIyMjk3///8zAAAAPsA////lASztVGoAAUFWAALAV98MiAAOmsJMQDb+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601974819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601974829559,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601974829"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975112447,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFVffDNGODY5NzY4MDQxOTIyMjk3///81QAAAPoA////lASztVGoAAAAWAALAAAAAAA8ADwAAABs+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975112"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975118123,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFZffDNMODY5NzY4MDQxOTIyMjk3///84gAAASYA////lASztVGoAAUFWAALAV98M0wAOmsJMgB6+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975118"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975118183,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8AFdffDNMODY5NzY4MDQxOTIyMjk3///84QAAASgA////lASztVGoAAUAWAAHAF98M0wAOsz7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975118"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975122709,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975122"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975419010,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFhffDR4ODY5NzY4MDQxOTIyMjk3///84AAAARkA////lASztVGoAAUFWAALAV98NHgAOmgJMgDE+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975419572,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975419638,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975429383,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975429"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975719184,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFlffDWkODY5NzY4MDQxOTIyMjk3///86wAAARUA////lASztVGoAAUFWAALAV98NaQAOnMJMgAx+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975719"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601975729538,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601975729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976019312,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFpffDbQODY5NzY4MDQxOTIyMjk3///80AAAAQIA////lASztVGoAAUFWAALAV98NtAAOmYJMgBR+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976029573,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976319488,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFtffDf8ODY5NzY4MDQxOTIyMjk3///85QAAAQcA////lASztVGoAAUFWAALAV98N/wAOmMJMgDD+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976319"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976329732,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976329"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976619034,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAFxffDkoODY5NzY4MDQxOTIyMjk3///81gAAAP8A////lASztVGoAAUFWAALAV98OSgAOl8JMgAE+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976619"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976629285,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976629"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976919168,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAF1ffDpUODY5NzY4MDQxOTIyMjk3///81wAAAPkA////lASztVGoAAUFWAALAV98OlQAOl8JMgBa+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976919"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601976929493,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601976929"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601977219345,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAF5ffDuAODY5NzY4MDQxOTIyMjk3///84wAAAQEA////lASztVGoAAUFWAALAV98O4AAOl8JMgDK+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601977219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601977229649,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601977229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601977520495,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAF9ffDysODY5NzY4MDQxOTIyMjk3///87QAAAQMA////lASztVGoAAUFWAALAV98PKwAOl8JMgAx+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601977520"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601977530741,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601977530"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601977819119,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGBffD3YODY5NzY4MDQxOTIyMjk3///80gAAAOwA////lASztVGoAAUFWAALAV98PdgAOlsJMgBV+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601977819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601977830724,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601977830"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978119481,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGFffD8EODY5NzY4MDQxOTIyMjk3///86QAAAQAA////lASztVGoAAUFWAALAV98PwQAOlUJMQDX+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978129713,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978129"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978419312,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGJffEAwODY5NzY4MDQxOTIyMjk3///88wAAARcA////lASztVGoAAUFWAALAV98QDAAOlUJMQBT+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978429573,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978429"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978712432,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGNffEFWODY5NzY4MDQxOTIyMjk3///86wAAAQsA////lASztVGoAAAAWAALAAAAAAA8ADwAAADA+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978712"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978717483,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGRffEFcODY5NzY4MDQxOTIyMjk3///83AAAARUA////lASztVGoAAUFWAALAV98QVwAOlQJMQCV+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978717"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978717542,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8AGVffEFcODY5NzY4MDQxOTIyMjk3///83AAAARUA////lASztVGoAAUAWAAHAF98QVwAOv77\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978717"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601978722673,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601978722"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979018992,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGZffEKIODY5NzY4MDQxOTIyMjk3///84wAAAPsA////lASztVGoAAUFWAALAV98QogAOkoJMQDT+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979019563,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979019622,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979029252,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979319178,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGdffEO0ODY5NzY4MDQxOTIyMjk3///85gAAAQwA////lASztVGoAAUFWAALAV98Q7QAOlgJMQBR+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979319"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979329425,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979329"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979619312,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGhffETgODY5NzY4MDQxOTIyMjk3///86wAAARgA////lASztVGoAAUFWAALAV98ROAAOlQJMQC5+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979619"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979629552,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979629"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979918831,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGlffEYMODY5NzY4MDQxOTIyMjk3///85wAAAQYA////lASztVGoAAUFWAALAV98RgwAOlEJMgD++w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979918"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601979929073,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601979929"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601980219021,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGpffEc4ODY5NzY4MDQxOTIyMjk3///84AAAAPcA////lASztVGoAAUFWAALAV98RzgAOlIJMgBD+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601980219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601980229326,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601980229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601980519153,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGtffEhkODY5NzY4MDQxOTIyMjk3///83QAAAQUA////lASztVGoAAUFWAALAV98SGQAOlEJMgCp+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601980519"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601980529443,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601980529"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601980819309,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAGxffEmQODY5NzY4MDQxOTIyMjk3///87gAAARYA////lASztVGoAAUFWAALAV98SZAAOk8JMgAk+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601980819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601980829587,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601980829"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601981119490,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAG1ffEq8ODY5NzY4MDQxOTIyMjk3///81gAAAPIA////lASztVGoAAUFWAALAV98SrwAOlcJMgBK+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601981119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601981129747,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601981129"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601981418990,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAG5ffEvoODY5NzY4MDQxOTIyMjk3///8nQAAAMgA////lASztVGoAAUFWAALAV98S+gAOlUJMgBA+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601981419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601981429235,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601981429"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601981719183,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAG9ffE0UODY5NzY4MDQxOTIyMjk3///81AAAAN0A////lASztVGoAAUFWAALAV98TRQAOlUJMgDp+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601981719"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601981729533,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601981729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982019328,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHBffE5AODY5NzY4MDQxOTIyMjk3///8yAAAAO4A////lASztVGoAAUFWAALAV98TkAAOkcJMgA7+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982029585,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982312439,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHFffE9mODY5NzY4MDQxOTIyMjk3///8xwAAAOkA////lASztVGoAAAAWAALAAAAAAA8ADwAAACl+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982312"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982317481,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHJffE9sODY5NzY4MDQxOTIyMjk3///8xAAAAQYA////lASztVGoAAUFWAALAV98T2wAOkIJMgCn+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982317"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982317541,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8AHNffE9sODY5NzY4MDQxOTIyMjk3///8xAAAAQgA////lASztVGoAAUAWAAHAF98T2wAOiP7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982317"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982322675,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982322"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982620304,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHRffFCYODY5NzY4MDQxOTIyMjk3///8xQAAAQYA////lASztVGoAAUFWAALAV98UJgAOjwJMgD++w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982620"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982620981,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982621"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982621158,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982621"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982630608,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982630"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982919170,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHVffFHEODY5NzY4MDQxOTIyMjk3///8vwAAAOcA////lASztVGoAAUFWAALAV98UcQAOj8JMgA2+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982919"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601982929443,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601982929"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601983219409,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHZffFLwODY5NzY4MDQxOTIyMjk3///8xAAAAOYA////lASztVGoAAUFWAALAV98UvAAOjMJMwCK+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601983219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601983229695,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601983229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601983519473,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHdffFQcODY5NzY4MDQxOTIyMjk3///8xwAAAOwA////lASztVGoAAUFWAALAV98VBwAOi0JMwDq+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601983519"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601983529731,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601983529"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601983819024,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHhffFVIODY5NzY4MDQxOTIyMjk3///8wwAAAOoA////lASztVGoAAUFWAALAV98VUgAOikJMwA7+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601983819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601983829376,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601983829"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601984119167,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHlffFZ0ODY5NzY4MDQxOTIyMjk3///8yQAAAOwA////lASztVGoAAUFWAALAV98VnQAOikJMwCe+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601984119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601984129455,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601984129"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601984419309,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHpffFegODY5NzY4MDQxOTIyMjk3///8yQAAAO4A////lASztVGoAAUFWAALAV98V6AAOiYJNAD5+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601984419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601984429571,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601984429"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601984718857,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHtffFjMODY5NzY4MDQxOTIyMjk3///8yAAAAPEA////lASztVGoAAUFWAALAV98WMwAOiIJNABS+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601984718"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601984729092,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601984729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985019007,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAHxffFn4ODY5NzY4MDQxOTIyMjk3///8ywAAAOkA////lASztVGoAAUFWAALAV98WfgAOiIJNACo+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985029316,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985319184,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAH1ffFskODY5NzY4MDQxOTIyMjk3///8yAAAAP8A////lASztVGoAAUFWAALAV98WyQAOh8JNQAW+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985319"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985329486,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985329"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985619327,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAH5ffFxQODY5NzY4MDQxOTIyMjk3///8xQAAAP4A////lASztVGoAAUFWAALAV98XFAAOh8JNQBt+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985619"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985629587,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985629"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985912462,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAH9ffF12ODY5NzY4MDQxOTIyMjk3///8wwAAAPYA////lASztVGoAAAAWAALAAAAAAA8ADwAAADa+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985912"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985917491,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIBffF18ODY5NzY4MDQxOTIyMjk3///8yAAAAREA////lASztVGoAAUFWAALAV98XXwAOhUJNgDX+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985917"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985917569,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8AIFffF18ODY5NzY4MDQxOTIyMjk3///8yAAAARIA////lASztVGoAAUAWAAHAF98XXwAOnv7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985917"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601985922767,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601985922"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986218991,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIJffF6oODY5NzY4MDQxOTIyMjk3///8xgAAAPUA////lASztVGoAAUFWAALAV98XqgAOhcJNgAW+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986219571,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986219652,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986229311,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986519188,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAINffF/UODY5NzY4MDQxOTIyMjk3///81gAAAPcA////lASztVGoAAUFWAALAV98X9QAOiAJNgCM+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986519"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986529426,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986529"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986819344,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIRffGEAODY5NzY4MDQxOTIyMjk3///8xgAAAPkA////lASztVGoAAUFWAALAV98YQAAOhoJNgDV+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601986829646,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601986829"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601987118848,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIVffGIsODY5NzY4MDQxOTIyMjk3///8ywAAAPwA////lASztVGoAAUFWAALAV98YiwAOhgJNQA1+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601987118"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601987129093,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601987129"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601987419022,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIZffGNYODY5NzY4MDQxOTIyMjk3///8ygAAAPcA////lASztVGoAAUFWAALAV98Y1gAOhgJNQCK+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601987419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601987429332,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601987429"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601987719178,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIdffGSEODY5NzY4MDQxOTIyMjk3///8zgAAAP4A////lASztVGoAAUFWAALAV98ZIQAOhoJNQDy+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601987719"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601987729442,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601987729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988019331,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIhffGWwODY5NzY4MDQxOTIyMjk3///8wwAAAPkA////lASztVGoAAUFWAALAV98ZbAAOhgJNQA7+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988029669,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988318861,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIlffGbcODY5NzY4MDQxOTIyMjk3///8zAAAAP4A////lASztVGoAAUFWAALAV98ZtwAOhUJNgCi+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988318"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988329165,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988329"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988618989,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIpffGgIODY5NzY4MDQxOTIyMjk3///8xQAAAPwA////lASztVGoAAUFWAALAV98aAgAOhUJNgD2+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988619"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988629231,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988629"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988919152,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAItffGk0ODY5NzY4MDQxOTIyMjk3///8xQAAAOMA////lASztVGoAAUFWAALAV98aTQAOhUJNgA4+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988919"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601988929412,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601988929"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989218685,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAIxffGpgODY5NzY4MDQxOTIyMjk3///8xwAAAQQA////lASztVGoAAUFWAALAV98amAAOhcJNgC5+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989218"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989228952,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989512489,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAI1ffGuFODY5NzY4MDQxOTIyMjk3///8xwAAAPgA////lASztVGoAAAAWAALAAAAAAA8ADwAAAAL+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989512"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989517491,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAI5ffGuMODY5NzY4MDQxOTIyMjk3///8xgAAAQsA////lASztVGoAAUFWAALAV98a4wAOhcJNgAb+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989517"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989517572,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8AI9ffGuMODY5NzY4MDQxOTIyMjk3///8xgAAAQwA////lASztVGoAAUAWAAHAF98a4wAOr37\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989517"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989522767,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989522"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989819056,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJBffGy4ODY5NzY4MDQxOTIyMjk3///8xwAAAOoA////lASztVGoAAUFWAALAV98bLgAOhAJNgBP+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989819701,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989819878,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989819"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601989829463,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601989829"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601990119191,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJFffG3kODY5NzY4MDQxOTIyMjk3///8xQAAAO4A////lASztVGoAAUFWAALAV98beQAOhoJNQC1+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601990119"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601990129442,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601990129"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601990419328,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJJffG8QODY5NzY4MDQxOTIyMjk3///8wwAAAP8A////lASztVGoAAUFWAALAV98bxAAOhQJNQAb+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601990419"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601990429614,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601990429"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601990718848,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJNffHA8ODY5NzY4MDQxOTIyMjk3///8xgAAAPMA////lASztVGoAAUFWAALAV98cDwAOhoJNQBz+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601990718"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601990729092,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601990729"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991019000,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJRffHFoODY5NzY4MDQxOTIyMjk3///8xgAAAP4A////lASztVGoAAUFWAALAV98cWgAOh0JNQDc+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991019"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991029252,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991029"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991319182,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJVffHKUODY5NzY4MDQxOTIyMjk3///8ywAAAPsA////lASztVGoAAUFWAALAV98cpQAOhoJNQA2+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991319"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991329485,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991329"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991618675,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJZffHPAODY5NzY4MDQxOTIyMjk3///8xgAAAP4A////lASztVGoAAUFWAALAV98c8AAOh0JNACR+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991618"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991628950,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991629"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991918862,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJdffHTsODY5NzY4MDQxOTIyMjk3///8xwAAAPkA////lASztVGoAAUFWAALAV98dOwAOh0JNADo+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991918"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601991929165,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601991929"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601992219010,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJhffHYYODY5NzY4MDQxOTIyMjk3///8zAAAAPwA////lASztVGoAAUFWAALAV98dhgAOiAJNABQ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601992219"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601992229249,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601992229"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601992519152,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJlffHdEODY5NzY4MDQxOTIyMjk3///8ywAAAPMA////lASztVGoAAUFWAALAV98d0QAOhsJNACc+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601992519"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601992529455,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601992529"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601992818686,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAJpffHhwODY5NzY4MDQxOTIyMjk3///8xgAAAOsA////lASztVGoAAUFWAALAV98eHAAOhUJNADk+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601992818"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601992828917,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601992829"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993130320,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBvAAFffHmoODY5NzY4MDQxOTIyMjk3///8zgAAAQIA////lASztVGoAAMIWwA6NDYwMTEzMDA5OTgxOTQ5ODk4NjExMTgyMzQwMDc2NzYxNzcPVHJhY2tlclYyLTIuMi41BjUwMFNQMeH7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993130"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993130726,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAJffHmpODY5NzY4MDQxOTIyMjk3///8zgAAAPcA////lASztVGoAAAAWwALAAAAAAA8ADwAAAC7+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993130"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993130781,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+qIAAwAfAAJffHmpODY5NzY4MDQxOTIyMjk3AwDm+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993130"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993131654,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAANffHmqODY5NzY4MDQxOTIyMjk3///8zgAAAQsA////lASztVGoAAUAWgALAV98eaoAOhgJNADs+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993131"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993131655,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+qIAAwAfAANffHmqODY5NzY4MDQxOTIyMjk3BQDq+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993131"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993140982,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993141"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993433088,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAARffHrWODY5NzY4MDQxOTIyMjk3///8yQAAAOcA////lASztVGoAAUFWgALAV98etYAOhAJNAAa+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993433"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993433421,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993433"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993443348,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993443"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993733236,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAVffHwCODY5NzY4MDQxOTIyMjk3///8zgAAAPEA////lASztVGoAAUFWgALAV98fAIAOhIJNACI+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993733"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601993743493,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601993743"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994033557,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAZffH0uODY5NzY4MDQxOTIyMjk3///8zwAAAPMA////lASztVGoAAUFWgALAV98fS4AOgoJNADe+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994033"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994043871,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994043"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994332928,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAdffH5aODY5NzY4MDQxOTIyMjk3///80QAAAQIA////lASztVGoAAUFWgALAV98floAOgkJNABK+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994333"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994343186,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994343"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994633090,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAhffH+GODY5NzY4MDQxOTIyMjk3///8zQAAAPoA////lASztVGoAAUFWgALAV98f4YAOgkJNACY+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994633"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994643377,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994643"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994933238,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAlffICyODY5NzY4MDQxOTIyMjk3///8xwAAAMAA////lASztVGoAAUFWgALAV98gLIAOgcJNACx+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994933"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601994943508,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601994943"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601995232776,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAApffIHeODY5NzY4MDQxOTIyMjk3///80wAAAPYA////lASztVGoAAUFWgALAV98gd4AOgYJNABN+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601995232"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601995243071,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601995243"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601995532975,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAtffIMKODY5NzY4MDQxOTIyMjk3///82AAAAPEA////lASztVGoAAUFWgALAV98gwoAOgYJNACq+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601995533"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601995543298,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601995543"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601995833109,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAAxffIQ2ODY5NzY4MDQxOTIyMjk3///8qwAAAF0A////eQSztVGoAAUFWgALAV98hDYAOgYJNQAq+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601995833"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601995843363,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601995843"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996132656,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAA1ffIViODY5NzY4MDQxOTIyMjk3///81gAAAPgA////lASztVGoAAUFWgALAV98hWIAOgIJNQBi+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996132"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996143007,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996143"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996432774,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAA5ffIaOODY5NzY4MDQxOTIyMjk3///80wAAAHIA////kASztVGoAAUFWgALAV98ho4AOgEJNQAv+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996432"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996443054,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996443"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996732262,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAAA9ffIe5ODY5NzY4MDQxOTIyMjk3///81QAAAP0A////lASztVGoAAAAWgALAAAAAAA8ADwAAADy+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996732"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996732392,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABBffIe6ODY5NzY4MDQxOTIyMjk3//+AAP//gAAC//+AAASztVH//wUFWgALAV98h7sAOv8INQCP+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996732"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996732464,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwA8ABFffIe7ODY5NzY4MDQxOTIyMjk3///81gAAAOoA////lASztVGoAAUAWgAHAF98h7sAOsT7\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996732"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996742498,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996742"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996743388,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996743"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601996743425,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601996743"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997033136,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABJffIjmODY5NzY4MDQxOTIyMjk3///82QAAAQMA////lASztVGoAAUFWgALAV98iOYAOgQJNQCG+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997033"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997043455,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997043"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997332599,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABNffIoSODY5NzY4MDQxOTIyMjk3///81gAAAQYA////lASztVGoAAUFWgALAV98ihIAOv4INQDc+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997332"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997342835,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997342"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997632784,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABRffIs+ODY5NzY4MDQxOTIyMjk3///8zgAAAJYA////lASztVGoAAUFWgALAV98iz4AOvkINQC5+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997632"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997643135,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997643"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997932918,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABVffIxqODY5NzY4MDQxOTIyMjk3///8zwAAAMUA////kgSztVGoAAUFWgALAV98jGoAOvYINQA/+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997933"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601997943204,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601997943"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601998233089,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABZffI2WODY5NzY4MDQxOTIyMjk3///83gAAAPMA////lASztVGoAAUFWgALAV98jZYAOvQINQDX+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601998233"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601998243378,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601998243"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601998532582,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABdffI7CODY5NzY4MDQxOTIyMjk3///80QAAAPkA////lASztVGoAAUFWgALAV98jsIAOvEINQAo+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601998532"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601998542870,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601998542"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601998832753,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABhffI/uODY5NzY4MDQxOTIyMjk3///80QAAAPgA////lASztVGoAAUFWgALAV98j+4AOvEINQCC+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601998833"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601998843206,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601998843"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601999132944,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABlffJEaODY5NzY4MDQxOTIyMjk3///8ewAAALQA////lASztVOqAAUFWgALAV98kRoAOvEINQBJ+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601999133"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601999143247,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601999143"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601999433062,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABpffJJGODY5NzY4MDQxOTIyMjk3///8yAAAAPMA////lASztVGoAAUFWgALAV98kkYAOu4INQAp+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601999433"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601999443365,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"MA==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601999443"
+    },
+    {
+      "data": "{\"upPacketSN\":-1,\"upDataSN\":-1,\"topic\":\"v1/up/ad\",\"timestamp\":1601999734519,\"tenantId\":\"10357781\",\"serviceId\":\"\",\"protocol\":\"lwm2m\",\"productId\":\"10027238\",\"payload\":{\"APPdata\":\"+tEAAwBAABtffJNyODY5NzY4MDQxOTIyMjk3///81QAAAPUA////lASztVGoAAUFWgALAV98k3IAOu4INQCT+w==\"},\"messageType\":\"dataReport\",\"deviceType\":\"\",\"deviceId\":\"bc2e0491cbe1429c8d936903936a43d9\",\"assocAssetId\":\"\",\"IMSI\":\"undefined\",\"IMEI\":\"869768041922297\"}",
+      "create_time": "1601999734"
+    }
+  ]
+}

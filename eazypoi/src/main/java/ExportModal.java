@@ -26,6 +26,15 @@ public class ExportModal {
     @Excel(name = "湿度", orderNum = "4")
     private String humi;
 
+    @Excel(name = "RSRP", orderNum = "5")
+    private String rsrp;
+    @Excel(name = "SNR", orderNum = "6")
+    private String snr;
+    @Excel(name = "ECL", orderNum = "7")
+    private String ecl;
+    @Excel(name = "RSRQ", orderNum = "8")
+    private String rsrq;
+
     public ExportModal() {
     }
 
@@ -72,6 +81,38 @@ public class ExportModal {
 
     public void setHumi(String humi) {
         this.humi = humi;
+    }
+
+    public String getRsrp() {
+        return rsrp;
+    }
+
+    public void setRsrp(String rsrp) {
+        this.rsrp = rsrp;
+    }
+
+    public String getSnr() {
+        return snr;
+    }
+
+    public void setSnr(String snr) {
+        this.snr = snr;
+    }
+
+    public String getEcl() {
+        return ecl;
+    }
+
+    public void setEcl(String ecl) {
+        this.ecl = ecl;
+    }
+
+    public String getRsrq() {
+        return rsrq;
+    }
+
+    public void setRsrq(String rsrq) {
+        this.rsrq = rsrq;
     }
 
     @Override
