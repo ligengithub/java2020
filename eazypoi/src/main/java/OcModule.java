@@ -1,6 +1,4 @@
-import java.util.Date;
 import java.util.List;
-import java.util.Map;
 
 /**
  * @author ligen
@@ -19,7 +17,7 @@ public class OcModule {
     List<InData> services;
 
 
-    class Data {
+    static class Data {
         private InData data = new InData();
 
         public InData getData() {
@@ -32,7 +30,7 @@ public class OcModule {
     }
 
 
-    class InData {
+    static class InData {
         private String serviceType;
         private String data;
         private String eventTime;

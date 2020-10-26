@@ -1,3 +1,5 @@
+package module.source;
+
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
@@ -18,7 +20,7 @@ public class CtwingModule {
     private InData payload = new InData();
 
 
-    class InData {
+   static class InData {
         @JsonProperty("APPdata")
         private String APPdata;
 

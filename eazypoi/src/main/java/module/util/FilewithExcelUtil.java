@@ -1,3 +1,5 @@
+package module.util;
+
 import cn.afterturn.easypoi.excel.ExcelExportUtil;
 import cn.afterturn.easypoi.excel.entity.ExportParams;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -8,7 +10,7 @@ import java.util.List;
 
 /**
  * @author ligen
- * @title: FilewithExcelUtil
+ * @title: module.util.FilewithExcelUtil
  * @projectName java
  * @description:
  * @date 2020/9/2916:17

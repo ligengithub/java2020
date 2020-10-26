@@ -7,16 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spi-demo-app" />
-        <module name="spi-provider" />
-        <module name="jdbc" />
-        <module name="spi-demo2-filter" />
         <module name="eazypoi" />
+        <module name="spi-provider" />
+        <module name="spi-demo2-filter" />
+        <module name="mybatis-demo" />
+        <module name="jdbc" />
+        <module name="spi-demo-app" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eazypoi" target="1.5" />
+      <module name="eazypoi" target="8" />
       <module name="jdbc" target="1.5" />
+      <module name="mybatis-demo" target="1.5" />
       <module name="spi" target="1.5" />
       <module name="spi-demo-app" target="1.8" />
       <module name="spi-demo2-filter" target="1.5" />

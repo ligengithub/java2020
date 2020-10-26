@@ -1,8 +1,10 @@
+package module.export;
+
 import cn.afterturn.easypoi.excel.annotation.Excel;
 
 /**
  * @author ligen
- * @title: ExportModal
+ * @title: module.export.ExportModal
  * @projectName java
  * @description:
  * @date 2020/9/2915:38
@@ -117,7 +119,7 @@ public class ExportModal {
 
     @Override
     public String toString() {
-        return "ExportModal{" +
+        return "module.export.ExportModal{" +
                 "data='" + data + '\'' +
                 ", date='" + date + '\'' +
                 '}';
